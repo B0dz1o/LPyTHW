@@ -1,15 +1,15 @@
 # Learn Python the hard way - progress
 
-* ~~Exercise 1~~ w/Drills
-    01.10.2015
-* ~~Exercise 2~~ w/Drills
-    01.10.2015
-* ~~Exercise 3~~ w/Drills
-    01.10.2015
-* ~~Exercise 4~~ w/Drills
-    01.10.2015
-* ~~Exercise 5~~ w/Drills
-    01.10.2015
+* ~~Exercise 1~~ w/Drills  
+01.10.2015
+* ~~Exercise 2~~ w/Drills  
+01.10.2015
+* ~~Exercise 3~~ w/Drills  
+01.10.2015
+* ~~Exercise 4~~ w/Drills  
+01.10.2015
+* ~~Exercise 5~~ w/Drills  
+01.10.2015
 * Exercise 6 In Progress
 * Exercise 7 TODO
 * Exercise 8 TODO
