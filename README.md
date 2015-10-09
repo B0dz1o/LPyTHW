@@ -1,16 +1,17 @@
 # Learn Python the hard way - progress
 
-* ~~Exercise 1~~ w/Drills  
+* ~~Exercise 1 w/Drills~~   
 01.10.2015
-* ~~Exercise 2~~ w/Drills  
+* ~~Exercise 2 w/Drills~~  
 01.10.2015
-* ~~Exercise 3~~ w/Drills  
+* ~~Exercise 3 w/Drills~~  
 01.10.2015
-* ~~Exercise 4~~ w/Drills  
+* ~~Exercise 4 w/Drills~~  
 01.10.2015
-* ~~Exercise 5~~ w/Drills  
+* ~~Exercise 5 w/Drills~~  
 01.10.2015
-* Exercise 6 In Progress
+* ~~Exercise 6 w/Drills~~  
+09.10.2015
 * Exercise 7 TODO
 * Exercise 8 TODO
 * Exercise 9 TODO
