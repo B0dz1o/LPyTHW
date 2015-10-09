@@ -20,7 +20,8 @@
 09.10.2015
 * ~~Exercise 10 w/Drills~~  
 09.10.2015
-* Exercise 11 TODO
+* ~~Exercise 11 w/Drills~~  
+09.10.2015
 * Exercise 12 TODO
 * Exercise 13 TODO
 * Exercise 14 TODO
