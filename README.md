@@ -30,9 +30,10 @@
 09.10.2015
 * ~~Exercise 15 w/Drills~~  
 09.10.2015
-* ~~geExercise 16 w/Drills~~  
+* ~~Exercise 16 w/Drills~~  
 09.10.2015
-* Exercise 17 TODO
+* ~~Exercise 17 w/Drills~~  
+11.10.2015
 * Exercise 18 TODO
 * Exercise 19 TODO
 * Exercise 20 TODO
