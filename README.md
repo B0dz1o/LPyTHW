@@ -44,7 +44,8 @@
 11.10.2015
 * ~~Exercise 22~~  
 11.10.2015
-* Exercise 23 TODO
+* ~~Exercise 23~~  
+11.10.2015
 * Exercise 24 TODO
 * Exercise 25 TODO
 * Exercise 26 TODO
