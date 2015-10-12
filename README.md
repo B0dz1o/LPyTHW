@@ -64,7 +64,8 @@
 12.10.2015
 * ~~Exercise 32 w/Drills~~  
 12.10.2015
-* Exercise 33 TODO
+* ~~Exercise 33 w/Drills~~  
+12.10.2015
 * Exercise 34 TODO
 * Exercise 35 TODO
 * Exercise 36 TODO
