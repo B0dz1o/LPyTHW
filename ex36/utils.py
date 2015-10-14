@@ -7,5 +7,5 @@ def die(why = def_reason):
     Default reason is unknown.""" 
     print why, "Game over!"
     
-def input(prompt = '> '):
+def def_input(prompt = '> '):
     return raw_input(prompt)
