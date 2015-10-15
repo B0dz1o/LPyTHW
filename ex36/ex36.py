@@ -1,4 +1,4 @@
-from rooms import *
+from rooms import start
 
 start()
 
