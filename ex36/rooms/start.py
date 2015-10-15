@@ -9,6 +9,9 @@ def start():
     
     while not proper_choice:
         proper_choice = crossroads()
+    
+    print "Thank you for playing. Come again later."
+    return True
         
 def crossroads():
     """
@@ -17,9 +20,9 @@ def crossroads():
     """
     decision = def_input()
     if decision == '1' or decision == '1.':
-        creek()
+        return creek()
     elif decision == '2' or decision == '2.':
-        dragon()
+        return dragon()
     else:
         print "Unknown choice. Try again."
         return False
