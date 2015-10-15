@@ -1,4 +1,6 @@
 from utils import die, def_input
+from creek import creek
+from dragon import dragon
 
 def start():
     """Main function to go through start room"""
