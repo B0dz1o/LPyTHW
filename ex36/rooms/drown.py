@@ -1,6 +1,6 @@
 from utils import die, def_input
 from cave import cave
-from start import start
+import start
 from time import sleep
 
 def drown():
@@ -32,13 +32,13 @@ def swim():
         return cave()
     elif decision == '2' or decision == '2.':
         print "Darkness covers your sight. You lose conscience..."
-        for i in range(0,10):
+        for i in range(0,5):
             print '...'
             sleep(1)
         print "You lucky bastard! A fisherman caught you and brought you "\
         "home, where you can recover."
         print "You can start your adventure again!"
-        return start()
+        return start.start()
     else:
         print "Unknown choice. Try again."
         return False    

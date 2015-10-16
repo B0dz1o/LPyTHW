@@ -1,7 +1,7 @@
 from utils import die, def_input
 import time
 
-def drown():
+def cave():
     """
     Main function to go through 'Cave' room.
     """
@@ -31,7 +31,7 @@ def gold():
     elif gold > 10 and gold <= 50:
         print "It's a heavy load, but you manage to move."
         return goblin(True)
-    elif gold > 0 and gold <= 10
+    elif gold > 0 and gold <= 10:
         print "You're not greedy! You leave the cave to come back home."
         return goblin(False)
         
@@ -55,7 +55,7 @@ def goblin(is_heavy):
         if end_time - start_time > 1.5:
             print "You waited too long. DIE BYATCH!"
             die("Goblins kill you!")
-        elif dec != ''
+        elif dec != '':
             print "You couldn't decide what to do, so they butchered you!"
             die("Goblins kill you!")
         else:
