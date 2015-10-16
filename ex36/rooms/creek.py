@@ -1,4 +1,6 @@
 from utils import die, def_input
+from cave import cave
+from drown import drown
 
 def creek():
     """Main function to go through 'Creek' room"""
