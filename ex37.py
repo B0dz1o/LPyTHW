@@ -1,5 +1,28 @@
+class foo():
+    def __enter__(self):
+        global y
+        y = 5
+        print "enter"
+        self.setx(2)
+        return self
+
+    def __exit__(self, type, value, traceback):
+        print y
+        print "exit"
+    
+    def setx(self, arg):
+        self.x = arg
+        
+    def status(self):
+        print "status %d" % self.x
+    
 def as_tester():
 	""" TODO """
+	temp = foo()
+	temp.setx(1)
+	temp.status()
+	with temp as t:
+	    t.status()
 
 def assert_tester():
 	""" TODO """
@@ -8,5 +31,14 @@ def break_tester():
 	counter = 0
 	while True:
 		counter += 1
-		if counter > 5:
+		print "counter"
+		if counter > 3:
 			break
+
+def continue_tester():
+    i = 0
+    while i < 3 			
+			
+#as_tester()
+#break_tester()			
+lambda_tester()
