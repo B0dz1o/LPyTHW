@@ -37,8 +37,17 @@ def break_tester():
 
 def continue_tester():
     i = 0
-    while i < 3 			
+    while i < 3:
+        i += 1
+        print "continue_tester()"
+        continue
+        print "Tego nie ma"
+        
+def lambda_tester():
+    bar = lambda y: 2 * y         			
+    print bar(1)
 			
 #as_tester()
-#break_tester()			
+#break_tester()
+continue_tester()			
 lambda_tester()
