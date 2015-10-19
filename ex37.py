@@ -46,8 +46,27 @@ def continue_tester():
 def lambda_tester():
     bar = lambda y: 2 * y         			
     print bar(1)
+    
+def del_tester():
+    m_dict = {1: 1, "1": "str-1", 'a': 2}
+    print m_dict
+    del m_dict['1']
+    print m_dict
+    del m_dict[1]
+    print m_dict
+    
+def finally_tester(str):
+    try:
+        print "Int %d" % int(str)
+    except ValueError:
+        print "ValueError"
+    finally:
+        print "Finally"
 			
 #as_tester()
 #break_tester()
-continue_tester()			
-lambda_tester()
+#continue_tester()			
+#lambda_tester()
+#del_tester()
+#finally_tester('abc')
+#finally_tester('1')
