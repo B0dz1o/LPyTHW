@@ -62,6 +62,23 @@ def finally_tester(str):
         print "ValueError"
     finally:
         print "Finally"
+        
+def raise_tester():
+    try:
+        raise(TypeError)
+    except ValueError:
+        print "ValueError"
+    except TypeError:
+        print "TypeError"        
+    finally:
+        print "Finally"     
+        
+def pass_tester():
+    if True:
+        pass
+        print "will this occur?"
+    while True:
+        pass   
 			
 #as_tester()
 #break_tester()
@@ -70,3 +87,5 @@ def finally_tester(str):
 #del_tester()
 #finally_tester('abc')
 #finally_tester('1')
+raise_tester()
+pass_tester()
